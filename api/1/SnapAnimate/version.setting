@@ -1,0 +1,5 @@
+{
+	Release = 0,
+    Version = "major.minor.patch",
+    Download = "x.orsonlord.com",
+}
