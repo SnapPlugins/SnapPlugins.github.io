@@ -1,5 +1,5 @@
 {
 	Release = 1,
     Version = "0.11.1",
-    Download = "orsonlord.com/products",
+    Download = "https://orsonlord.com/products",
 }
